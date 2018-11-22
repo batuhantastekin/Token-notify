@@ -1,0 +1,13 @@
+# Common
+*.pyc
+*.pyo
+*.swp
+*.swo
+*.orig
+
+# Project specific
+/.env
+/var/
+/deploy/roles/
+/deploy/.env
+/deploy/*.retry
